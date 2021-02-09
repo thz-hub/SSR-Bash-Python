@@ -48,7 +48,7 @@
 
 
 ## 安装&更新 ##
-    wget -q -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/install.sh && bash install.sh
+    wget -q -N --no-check-certificate https://raw.githubusercontent.com/thz-hub/SSR-Bash-Python/master/install.sh && bash install.sh
 
 ## 自检（没有卵用😝） ##
     wget -q -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
